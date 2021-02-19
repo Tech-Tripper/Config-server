@@ -1,1 +1,4 @@
-
+channnel
+  source: youtube
+    name: Tech Trippin
+     url: https://github.com/Tech-Tripper/Config-server/edit/main/application.yml
